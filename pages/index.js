@@ -1,4 +1,4 @@
-import VinderAssistant from '@/components/VinderAssistant';
+import VinderAssistant from '../components/VinderAssistant';
 
 export default function Home() {
   return (
